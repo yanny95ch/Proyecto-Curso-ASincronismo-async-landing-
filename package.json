@@ -1,0 +1,12 @@
+{
+  "name": "proyecto-curso-asincronismo-async-landing-",
+  "version": "1.0.0",
+  "description": "Creado con  apoyo del Curso de platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
